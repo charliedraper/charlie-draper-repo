@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Lab4 {
     public static void main(String args[]) {
+
+        //Comment added~~~
+
         Scanner myScanner = new Scanner(System.in);
         long decimal=0;
         double exponentValue=0;
